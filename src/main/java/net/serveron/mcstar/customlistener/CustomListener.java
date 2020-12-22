@@ -7,7 +7,7 @@ public final class CustomListener extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-
+        new CommandManager(this);
     }
 
     @Override
