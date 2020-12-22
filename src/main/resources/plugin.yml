@@ -1,0 +1,4 @@
+name: CustomListener
+version: ${project.version}
+main: net.serveron.mcstar.customlistener.CustomListener
+api-version: 1.16
